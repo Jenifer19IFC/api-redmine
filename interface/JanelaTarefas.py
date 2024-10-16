@@ -34,7 +34,7 @@ class JanelaTarefas(tk.Toplevel):
         # Inicializar a classe Request
         self.request = Request(
             base_url="http://fabtec.ifc-riodosul.edu.br/issues.json",
-            key="b7c238adc2c0af943c1f0fa9de6489ce190bd6d5"
+            key="****"
         )
 
         # Config. grid principal
