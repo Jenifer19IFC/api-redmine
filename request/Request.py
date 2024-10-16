@@ -34,7 +34,7 @@ class Request:
 
 # # Como usar a classe
 # base_url = "http://fabtec.ifc-riodosul.edu.br/issues.json"
-# chave = "b7c238adc2c0af943c1f0fa9de6489ce190bd6d5"
+# chave = "***"
 
 # requisicao = Request(base_url, chave)
 
